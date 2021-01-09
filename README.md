@@ -1,6 +1,9 @@
 ## Grafana dashboard for Prometheus tado-exporter
 Grafana dashboard for Prometheus <a href="https://github.com/eko/tado-exporter">eko/tado-exporter</a> that shows the temperature setting, current temperature, humidity and activity for all rooms equipped with tado° Smart Radiator Thermostat and/or Temperature Sensor.
 
+<img src="https://raw.githubusercontent.com/disisto/grafana-dashboard-for-prometheus-tado-exporter/main/img/grafana_dashboard_for_prometheus_tado_exporter.png">
+
+
 ## Prerequisites
 + <a href="https://www.tado.com/">tado°</a> Smart Radiator Thermostat / Temperature Sensor
 + <a href="https://github.com/grafana/grafana">Grafana</a> instance (v7.3 or higher)
@@ -30,13 +33,13 @@ Smart Schedule in tado° app<br>
 <img height="323" src="https://raw.githubusercontent.com/disisto/grafana-dashboard-for-prometheus-tado-exporter/main/img/tado_smart_schedule.png">
 
 Default: Grafana dashboard without tado° Smart Schedule<br>
-<img height="175" src="https://raw.githubusercontent.com/disisto/grafana-dashboard-for-prometheus-tado-exporter/main/img/without_smart_schedule.png">
+<img src="https://raw.githubusercontent.com/disisto/grafana-dashboard-for-prometheus-tado-exporter/main/img/without_smart_schedule.png">
 
 Customized: Grafana dashboard wit tado° Smart Schedule indication<br>
-<img height="175" src="https://raw.githubusercontent.com/disisto/grafana-dashboard-for-prometheus-tado-exporter/main/img/with_smart_schedule.png">
+<img src="https://raw.githubusercontent.com/disisto/grafana-dashboard-for-prometheus-tado-exporter/main/img/with_smart_schedule.png">
 
 If you prefer to add the Smart Schedule delimiter, click on the settings dropdown on the temperature graph and choose 'Edit':<br>
-<img height="175"  src="https://raw.githubusercontent.com/disisto/grafana-dashboard-for-prometheus-tado-exporter/main/img/edit_for_smart_schedule.png">
+<img src="https://raw.githubusercontent.com/disisto/grafana-dashboard-for-prometheus-tado-exporter/main/img/edit_for_smart_schedule.png">
 
 Scroll down to 'Time regions' and press on '+ Add Time region':<br>
 <img src="https://raw.githubusercontent.com/disisto/grafana-dashboard-for-prometheus-tado-exporter/main/img/grafana_time_regions.png">
@@ -46,5 +49,5 @@ Add the time and date settings that matches with your tado° settings:<br>
 
 
 ---
-This project is not affiliated with tado° in any way.
+This project is not affiliated with <a href="https://www.tado.com/">tado°</a>.<br>
 All mentioned trademarks are the property of their respective owners.
