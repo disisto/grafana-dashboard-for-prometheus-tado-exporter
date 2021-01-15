@@ -1,4 +1,4 @@
-## Grafana dashboard for Prometheus tado-exporter
+## Grafana dashboard for Prometheus tado-exporter<br>Monitor your tado° Smart Radiator Thermostat and Temperature Sensor
 Grafana dashboard for Prometheus <a href="https://github.com/eko/tado-exporter">eko/tado-exporter</a> that shows the temperature setting, current temperature, humidity and activity for all rooms equipped with tado° Smart Radiator Thermostat and/or Temperature Sensor.
 
 <img src="https://raw.githubusercontent.com/disisto/grafana-dashboard-for-prometheus-tado-exporter/main/img/grafana_dashboard_for_prometheus_tado_exporter.png">
